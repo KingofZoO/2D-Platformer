@@ -13,6 +13,8 @@ Left mouse button - shot
 
 Right mouse button - drop a mine
 
+Escape - show the game menu
+
 A jump on the enemy's head on the level 1 will smash him
 # Screenshots
 <img src="images/Level 1 image.jpg" width="600">
