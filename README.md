@@ -13,4 +13,4 @@ Left mouse button - shot
 
 Right mouse button - drop a mine
 # Screenshots
-<img src="images/Level20%120%image.png" width="300">
+<img src="images/Level 1 image.jpg" width="600">
