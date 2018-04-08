@@ -1,4 +1,4 @@
-# 2D-Platformer
+# 2D-Platformer (desktop version)
  Educational project for acquaintance with 2d in Unity
 
 
